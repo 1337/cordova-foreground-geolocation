@@ -5,7 +5,7 @@
     <description>Cordova Foreground Geolocation Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,foreground,geolocation</keywords>
-    <js-module src="www/geolocation.js" name="device">
-        <clobbers target="device" />
+    <js-module src="www/geolocation.js" name="geolocation">
+        <clobbers target="echo" />
     </js-module>
 </plugin>
