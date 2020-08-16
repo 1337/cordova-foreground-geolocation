@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        id="cordova-foreground-geolocation" version="0.0.1">
+    <name>Foreground Geolocation</name>
+    <description>Cordova Foreground Geolocation Plugin</description>
+    <license>Apache 2.0</license>
+    <keywords>cordova,foreground,geolocation</keywords>
+    <js-module src="www/geolocation.js" name="device">
+        <clobbers target="device" />
+    </js-module>
+</plugin>

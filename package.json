@@ -1,0 +1,38 @@
+{
+  "name": "cordova-foreground-geolocation",
+  "version": "0.0.1",
+  "description": "Cordova Foreground Geolocation Plugin",
+  "cordova": {
+    "id": "cordova-foreground-geolocation",
+    "platforms": []
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "plugman": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/1337/cordova-foreground-geolocation.git"
+  },
+  "keywords": [
+    "cordova",
+    "foreground",
+    "geolocation",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": {
+    "cordovaDependencies": {
+      "0.0.1": {
+        "cordova-android": ">=6.4.0"
+      }
+    }
+  },
+  "author": "Brian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1337/cordova-foreground-geolocation/issues"
+  },
+  "homepage": "https://github.com/1337/cordova-foreground-geolocation#readme"
+}
