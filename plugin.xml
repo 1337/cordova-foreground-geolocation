@@ -5,7 +5,8 @@
     <description>Cordova Foreground Geolocation Plugin</description>
     <license>MIT</license>
     <keywords>cordova,foreground,geolocation</keywords>
-    <js-module src="www/geolocation.js" name="ForegroundGeolocation">
+    <js-module src="www/plugin.js" name="plugin">
+        <runs />
         <clobbers target="ForegroundGeolocation" />
     </js-module>
 </plugin>
